@@ -15,7 +15,7 @@ I like building cool things & to build in public.
 ~ ls skills/
 python   c   sql   git   rag   llm   ai   ml
 
-~echo "Currently learning:"
+~ echo "Currently learning:"
 agentic systems, sql, and interview prep
 
 ```
