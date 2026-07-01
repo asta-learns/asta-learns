@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+   _____     ____________________ _____    
+  /  _  \   /   _____/\__    ___//  _  \   
+ /  /_\  \  \_____  \   |    |  /  /_\  \  
+/    |    \ /        \  |    | /    |    \ 
+\____|__  //_______  /  |____| \____|__  / 
+        \/         \/                  \/  
+
 <!--
 **asta-learns/asta-learns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
